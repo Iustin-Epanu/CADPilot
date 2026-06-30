@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Environment variables (keep .env.example and .env.cadagent — they hold no secrets)
+.env
+.env.local
+
+# macOS
+.DS_Store
+
+# IDE / tooling
+.idea/
+*.swp
+*.swo
+*~
+
+# Local editor / tooling settings
+.vscode/settings.json
+.claude/
+
+# Logs
+*.log

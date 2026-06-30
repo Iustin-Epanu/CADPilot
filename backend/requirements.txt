@@ -1,0 +1,6 @@
+fastapi
+langgraph
+uvicorn[standard]
+langchain-anthropic
+langchain-core
+backend
